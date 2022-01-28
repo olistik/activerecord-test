@@ -1,6 +1,5 @@
 # frozen_string_literal: true
 
-require 'uri'
 require "active_support/core_ext/enumerable"
 
 module ActiveRecord
